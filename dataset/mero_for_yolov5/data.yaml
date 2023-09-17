@@ -1,0 +1,5 @@
+train: /content/Materials1/dataset/mero_for_yolov5/train/images
+val: /content/Materials1/dataset/mero_for_yolov5/valid/images
+
+nc: 2
+names: ['messi', 'ronaldo']
