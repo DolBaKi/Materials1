@@ -1,0 +1,6 @@
+train: /content/YOLO-Datasets/mask_wearing_dataset/train/images
+val: /content/YOLO-Datasets/mask_wearing_dataset/valid/images
+test: /content/YOLO-Datasets/mask_wearing_dataset/test/images
+
+nc: 2
+names: ['mask', 'no-mask']
