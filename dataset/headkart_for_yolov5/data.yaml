@@ -1,6 +1,6 @@
-train: /content/YOLO-Datasets/mask_wearing_dataset/train/images
-val: /content/YOLO-Datasets/mask_wearing_dataset/valid/images
-test: /content/YOLO-Datasets/mask_wearing_dataset/test/images
+train: /content/Materials1/dataset/headkart_for_yolov5/train/images
+val: /content/Materials1/dataset/headkart_for_yolov5/valid/images
+test: /content/Materials1/dataset/headkart_for_yolov5/test/images
 
 nc: 2
-names: ['mask', 'no-mask']
+names: ['head', 'kart']
